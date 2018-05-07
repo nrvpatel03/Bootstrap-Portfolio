@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-.page{
-    width: 960px;
-}
 .backgroundimg{
     background-image: url("../assets/dust_scratches.png");
     height: 1000px;
